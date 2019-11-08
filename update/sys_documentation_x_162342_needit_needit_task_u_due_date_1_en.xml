@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_due_date_1" label="Due Date" language="en" table="x_162342_needit_needit_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_due_date_1</element>
+            <help/>
+            <hint/>
+            <label>Due Date</label>
+            <language>en</language>
+            <name>x_162342_needit_needit_task</name>
+            <plural>Due Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-18 03:06:17</sys_created_on>
+            <sys_id>998d5f0cdb400010d101af2648961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Due Date</sys_name>
+            <sys_package display_value="NeedIt" source="x_162342_needit">6f249ae7dbf73300d101af26489619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6f249ae7dbf73300d101af26489619ae</sys_scope>
+            <sys_update_name>sys_documentation_x_162342_needit_needit_task_u_due_date_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-18 03:06:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
